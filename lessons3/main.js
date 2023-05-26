@@ -26,3 +26,22 @@
 // a = 6;
 // b = 4;
 // a > b ? console.log("boyukdur abi") : console.log("Boyuk deyil");
+
+// a = 12; //if                //else
+// a % 5 == 0 ? console.log("ok") : console.log("not ok");
+
+// eded1 = prompt("1 ci ededi daxil eidn:");
+// eded2 = prompt("2 ci ededi daxil edin:");
+// operator = prompt("operatoru  daxil eidn:");
+
+// eded1 = parseFloat(eded1);
+// eded2 = parseFloat(eded2);
+
+// result = 0;
+
+// if (operator == "+") {
+//   result = eded1 + eded2;
+//   console.log(eded1 + " + " + eded2 + " = " + result);
+// }
+
+// daha onceki tapsiriqlari prompt ile yazin ve calisin qisa ifden ve s.
