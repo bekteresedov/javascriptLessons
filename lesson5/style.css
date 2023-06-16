@@ -1,0 +1,12 @@
+#color {
+  height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-bottom: 50px;
+  background-color: yellow;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
